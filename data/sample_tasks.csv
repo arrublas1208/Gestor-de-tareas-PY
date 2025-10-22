@@ -1,0 +1,4 @@
+title,description,status,priority,due_date,tags
+Comprar leche,Ir al supermercado,pending,medium,2025-10-25,compras,super
+Estudiar Python,Curso de módulos y paquetes,in_progress,high,2025-11-01,estudio,python
+Llamar al médico,Agendar control,pending,low,,salud

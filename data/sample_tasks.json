@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Planificar sprint",
+    "description": "Definir tareas y prioridades",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2025-10-28",
+    "tags": ["work", "planning"]
+  },
+  {
+    "title": "Leer documentación de requests",
+    "description": "Revisar timeout y manejo de errores",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-10-27",
+    "tags": ["python", "http"]
+  }
+]
